@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Armario Hidropónico</h1>
-  <img src="https://github.com/Escondol/Armario-Hidro/assets/86692164/91512669-405f-489a-8807-8430636d0057" alt="4Ponic">
+  <img height="450px" src="https://github.com/Escondol/Armario-Hidro/assets/86692164/91512669-405f-489a-8807-8430636d0057" alt="4Ponic">
 </div>
 
 ## Descripción del proyecto
