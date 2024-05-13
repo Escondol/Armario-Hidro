@@ -18,6 +18,7 @@ La hidroponía interior es una forma de cultivar plantas sin suelo, ya sea sumer
 ## Creditos y Contactos
 - Contreras, Dojanni E.; esmerling.contreras@gmail.com
 - Montilla, Oscar A.; montillaoscar6@gmail.com
+- Ramírez, Nelson J.; eduard8219@hotmail.com
 - Segura, Angel G.; angelgabrir23@gmail.com
 
 ## Anexos y Funcionamiento
